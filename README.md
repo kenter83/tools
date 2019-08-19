@@ -1,2 +1,2 @@
 # tools
-My misc tools
+My misc tools for daily development
